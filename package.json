@@ -1,7 +1,7 @@
 {
   "name": "Alchemy-Shooter",
   "version": "0.0.0",
-  "description": "JSLou 6-hr game jam",
+  "description": "Alchemy Shooter",
   "main": "index.js",
   "private": true,
   "dependencies": {
